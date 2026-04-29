@@ -1,0 +1,59 @@
+MIKE JOHNSON
+DevOps Engineer & Cloud Architect
+
+Contact Information:
+Email: mike.johnson@email.com
+Phone: (555) 456-7890
+LinkedIn: linkedin.com/in/mikejohnson
+Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+DevOps engineer with 6+ years of experience in cloud infrastructure, automation, and CI/CD pipelines.
+Expertise in containerization, orchestration, and infrastructure as code. Passionate about building
+reliable and scalable systems.
+
+TECHNICAL SKILLS
+Cloud Platforms: AWS, Azure, Google Cloud Platform
+Containerization: Docker, Kubernetes, OpenShift
+Infrastructure as Code: Terraform, CloudFormation, Ansible
+CI/CD Tools: Jenkins, GitLab CI, GitHub Actions, CircleCI
+Monitoring: Prometheus, Grafana, ELK Stack, CloudWatch
+Programming: Python, Bash, Go, YAML
+Databases: PostgreSQL, MySQL, Redis, DynamoDB
+
+PROFESSIONAL EXPERIENCE
+
+Senior DevOps Engineer | CloudFirst Technologies | 2021 - Present
+• Designed and implemented scalable cloud infrastructure on AWS and Azure
+• Built automated CI/CD pipelines reducing deployment time by 80%
+• Managed Kubernetes clusters serving 50+ microservices
+• Implemented monitoring and alerting systems using Prometheus and Grafana
+• Led migration of legacy applications to cloud-native architecture
+
+DevOps Engineer | InfraTech Solutions | 2019 - 2021
+• Automated infrastructure provisioning using Terraform and Ansible
+• Implemented containerization strategies with Docker and Kubernetes
+• Set up monitoring and logging solutions for distributed systems
+• Collaborated with development teams to optimize application performance
+• Participated in on-call rotations and incident response
+
+System Administrator | ServerCorp | 2017 - 2019
+• Managed Linux servers and network infrastructure
+• Implemented backup and disaster recovery procedures
+• Automated routine tasks using Python and Bash scripts
+• Provided technical support and troubleshooting for production systems
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Texas at Austin | 2013 - 2017
+
+PROJECTS
+• Multi-Cloud Kubernetes Deployment - Infrastructure spanning AWS and Azure
+• Automated Testing Pipeline - CI/CD implementation for microservices
+• Infrastructure Monitoring Dashboard - Custom Grafana dashboards
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Professional
+• Certified Kubernetes Administrator (CKA)
+• HashiCorp Certified: Terraform Associate
+• Azure DevOps Engineer Expert

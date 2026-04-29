@@ -1,0 +1,60 @@
+EMILY CHEN
+Product Manager & UX Designer
+
+Contact Information:
+Email: emily.chen@email.com
+Phone: (555) 234-5678
+Portfolio: emilychendesign.com
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+Product manager with 4+ years of experience in user experience design and product strategy.
+Expert in user research, prototyping, and agile development. Passionate about creating
+user-centered digital products that solve real-world problems.
+
+TECHNICAL SKILLS
+Design Tools: Figma, Sketch, Adobe Creative Suite, InVision, Miro
+Analytics: Google Analytics, Mixpanel, Hotjar, A/B testing platforms
+Project Management: Jira, Asana, Trello, Slack, Notion
+Programming: HTML, CSS, JavaScript (basic), SQL
+Research: User interviews, surveys, usability testing, persona development
+
+PROFESSIONAL EXPERIENCE
+
+Senior Product Manager | TechStart Inc. | 2022 - Present
+• Led product strategy for mobile app with 500K+ active users
+• Conducted user research and usability testing to improve conversion rates by 35%
+• Collaborated with engineering teams using agile methodologies
+• Managed product roadmap and prioritized features based on user feedback
+• Designed wireframes and prototypes using Figma and Sketch
+
+Product Designer | DesignCorp | 2020 - 2022
+• Created user interfaces for web and mobile applications
+• Performed user research and created personas for target audiences
+• Developed design systems and style guides for consistent branding
+• Worked closely with developers to ensure proper implementation
+• Improved user engagement metrics by 25% through redesign initiatives
+
+UX Designer | StartupXYZ | 2019 - 2020
+• Designed user experiences for B2B SaaS platform
+• Conducted competitive analysis and market research
+• Created user journey maps and information architecture
+• Prototyped and tested new features with stakeholders
+• Collaborated with marketing team on landing page optimization
+
+EDUCATION
+Bachelor of Arts in Psychology
+New York University | 2015 - 2019
+
+Certificate in UX/UI Design
+General Assembly | 2019
+
+PROJECTS
+• E-commerce Mobile App - Complete redesign increasing sales by 40%
+• Healthcare Dashboard - B2B platform for medical professionals
+• Travel Planning App - Personal project with 10K+ downloads
+
+CERTIFICATIONS
+• Google Analytics Certified
+• Certified Scrum Product Owner (CSPO)
+• Adobe Certified Expert (ACE) in Experience Design

@@ -1,0 +1,63 @@
+SARAH SMITH
+Data Scientist & Machine Learning Engineer
+
+Contact Information:
+Email: sarah.smith@email.com
+Phone: (555) 987-6543
+GitHub: github.com/sarahsmith
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+Data scientist with 4+ years of experience in machine learning, statistical analysis, and Python programming.
+Expert in developing predictive models and extracting insights from large datasets. Strong background in
+deep learning and natural language processing.
+
+TECHNICAL SKILLS
+Programming Languages: Python, R, SQL, Scala
+Machine Learning: TensorFlow, PyTorch, scikit-learn, Keras
+Data Analysis: pandas, numpy, matplotlib, seaborn, Jupyter
+Big Data: Apache Spark, Hadoop, Databricks
+Databases: PostgreSQL, MySQL, MongoDB, Snowflake
+Cloud Platforms: AWS (SageMaker, EC2, S3), Azure ML
+Tools: Git, Docker, MLflow, Airflow
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Scientist | DataTech Solutions | 2022 - Present
+• Developed deep learning models for computer vision achieving 95% accuracy
+• Built end-to-end ML pipelines using Python and Apache Spark
+• Implemented A/B testing frameworks for model validation
+• Collaborated with product teams to deploy ML models in production
+
+Data Scientist | Analytics Corp | 2020 - 2022
+• Created predictive models for customer churn reduction using Python and scikit-learn
+• Performed statistical analysis on datasets with 10M+ records
+• Developed natural language processing solutions for text classification
+• Mentored intern data scientists and led knowledge sharing sessions
+
+Junior Data Analyst | Insights Inc | 2019 - 2020
+• Analyzed customer behavior data using SQL and Python
+• Created interactive dashboards and reports for business stakeholders
+• Assisted in machine learning model development and evaluation
+• Gained experience with cloud platforms and distributed computing
+
+EDUCATION
+Master of Science in Data Science
+University of Washington | 2017 - 2019
+
+Bachelor of Science in Mathematics
+Stanford University | 2013 - 2017
+
+PROJECTS
+• Sentiment Analysis Tool - NLP project using TensorFlow and Python
+• Customer Segmentation - Clustering analysis with unsupervised learning
+• Stock Market Predictor - Time series forecasting using LSTM networks
+
+PUBLICATIONS
+• "Advanced Techniques in Deep Learning for Computer Vision" - AI Conference 2023
+• "Scalable Machine Learning Pipelines" - Data Science Journal 2022
+
+CERTIFICATIONS
+• AWS Certified Machine Learning Specialty
+• Google Cloud Professional Data Engineer
+• TensorFlow Developer Certificate

@@ -1,0 +1,52 @@
+JOHN DOE
+Software Engineer
+
+Contact Information:
+Email: john.doe@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Experienced software engineer with 5+ years of expertise in Python, JavaScript, and cloud technologies. 
+Passionate about building scalable web applications and working with machine learning frameworks.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, Java, C++
+Web Technologies: React, Node.js, HTML5, CSS3, REST APIs
+Databases: PostgreSQL, MongoDB, Redis
+Cloud Platforms: AWS, Google Cloud Platform
+Machine Learning: TensorFlow, scikit-learn, pandas, numpy
+Tools: Git, Docker, Kubernetes, Jenkins
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | 2021 - Present
+• Developed and maintained Python-based microservices handling 10M+ requests daily
+• Led implementation of machine learning models for recommendation systems
+• Collaborated with cross-functional teams to deliver features ahead of schedule
+• Mentored junior developers and conducted code reviews
+
+Software Engineer | StartupXYZ | 2019 - 2021
+• Built full-stack web applications using React and Node.js
+• Implemented RESTful APIs and integrated with third-party services
+• Optimized database queries reducing response time by 40%
+• Participated in agile development processes and sprint planning
+
+Junior Developer | WebSolutions | 2018 - 2019
+• Developed responsive web interfaces using HTML, CSS, and JavaScript
+• Assisted in Python backend development and testing
+• Gained experience with version control and collaborative development
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2014 - 2018
+
+PROJECTS
+• Personal Portfolio Website - Built with React and deployed on AWS
+• Stock Price Predictor - Machine learning project using Python and TensorFlow
+• Task Management App - Full-stack application with user authentication
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Developer

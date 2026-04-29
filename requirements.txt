@@ -1,0 +1,19 @@
+# LLM-Powered File System Assistant Dependencies
+
+# Core dependencies for file operations
+pathlib2>=2.3.7
+python-dotenv>=1.0.0        # Load environment variables from .env file
+
+# Document parsing libraries
+PyPDF2>=3.0.1          # PDF file reading
+python-docx>=0.8.11     # DOCX file reading
+
+# LLM API clients
+openai>=1.12.0          # OpenAI GPT models
+anthropic>=0.18.0       # Anthropic Claude models
+
+
+# Development and testing
+pytest>=7.0.0           # Testing framework
+pytest-cov>=4.0.0       # Coverage reporting
+
