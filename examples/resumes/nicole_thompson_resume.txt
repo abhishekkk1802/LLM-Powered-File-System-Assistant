@@ -1,0 +1,47 @@
+NICOLE THOMPSON
+Frontend Developer
+
+Contact Information:
+Email: nicole.thompson@email.com
+Phone: (555) 347-6000
+LinkedIn: linkedin.com/in/nicolethompson
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+frontend developer with 2+ years of experience in software development
+and technology solutions. Expert in React, TypeScript, SASS, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: React, TypeScript
+Technologies: SASS, Webpack
+Tools: Jest, VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Developer | FrontendFirst | 2022 - Present
+• Developed and maintained applications using React and TypeScript
+• Built scalable solutions handling 100K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 20% through optimization
+
+Frontend Developer | UIUXCorp | 2020 - 2022
+• Implemented features using TypeScript and SASS
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2016 - 2020
+
+PROJECTS
+• Web Application - React project with modern architecture
+• Platform - Full-stack application using TypeScript
+• Open Source Contribution - Active contributor to React community projects
+
+CERTIFICATIONS
+• AWS Certified Developer
+• React Professional Certification

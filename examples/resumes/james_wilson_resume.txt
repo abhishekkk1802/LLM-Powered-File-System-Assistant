@@ -1,0 +1,50 @@
+JAMES WILSON
+Full Stack Developer
+
+Contact Information:
+Email: james.wilson@email.com
+Phone: (555) 789-0123
+GitHub: github.com/jameswilson
+Location: Portland, OR
+
+PROFESSIONAL SUMMARY
+Full stack developer with 3+ years of experience building modern web applications
+using React, Node.js, and cloud technologies. Passionate about clean code,
+user experience, and agile development methodologies.
+
+TECHNICAL SKILLS
+Frontend: React, Vue.js, TypeScript, HTML5, CSS3, SASS, Bootstrap
+Backend: Node.js, Express.js, Python, Django, REST APIs, GraphQL
+Databases: MongoDB, PostgreSQL, Redis
+Cloud & DevOps: AWS, Docker, Jenkins, Git, CI/CD
+Testing: Jest, Cypress, Unit Testing, Integration Testing
+
+PROFESSIONAL EXPERIENCE
+
+Full Stack Developer | WebTech Solutions | 2021 - Present
+• Developed responsive web applications using React and Node.js
+• Built RESTful APIs serving 50K+ daily active users
+• Implemented automated testing reducing bugs by 60%
+• Collaborated with UX designers to improve user engagement
+• Optimized application performance achieving 3x faster load times
+
+Junior Developer | CodeCraft Inc | 2020 - 2021
+• Assisted in developing e-commerce platforms using Django
+• Created responsive UI components with React and CSS
+• Participated in code reviews and agile development processes
+• Maintained legacy applications and implemented bug fixes
+• Contributed to open source projects and internal tools
+
+EDUCATION
+Bachelor of Science in Computer Science
+Portland State University | 2016 - 2020
+
+PROJECTS
+• Task Manager App - React/Node.js application with real-time updates
+• E-commerce Platform - Full-stack marketplace with payment integration
+• Weather Dashboard - Vue.js app consuming weather APIs
+
+CERTIFICATIONS
+• AWS Certified Developer Associate
+• React Developer Certification
+• Agile Development Practitioner

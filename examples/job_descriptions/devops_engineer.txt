@@ -1,0 +1,62 @@
+DevOps Engineer - CloudFirst Technologies
+
+We are looking for a skilled DevOps Engineer to help us build and maintain robust, scalable infrastructure and deployment pipelines.
+
+REQUIRED QUALIFICATIONS:
+• 4+ years of DevOps or Site Reliability Engineering experience
+• Strong expertise in containerization (Docker) and orchestration (Kubernetes)
+• Experience with cloud platforms (AWS, Azure, or GCP)
+• Proficiency in Infrastructure as Code (Terraform, CloudFormation)
+• Bachelor's degree in Computer Science, Engineering, or related field
+
+REQUIRED TECHNICAL SKILLS:
+• Container technologies: Docker, Kubernetes, OpenShift
+• Cloud platforms: AWS (EC2, S3, RDS, Lambda) or equivalent
+• Infrastructure as Code: Terraform, Ansible, or CloudFormation
+• CI/CD pipelines: Jenkins, GitLab CI, GitHub Actions
+• Monitoring and logging: Prometheus, Grafana, ELK Stack
+• Scripting: Bash, Python, or PowerShell
+
+PREFERRED QUALIFICATIONS:
+• Experience with microservices architecture
+• Service mesh technologies (Istio, Linkerd)
+• Database administration (PostgreSQL, MongoDB, Redis)
+• Security best practices and compliance frameworks
+• Agile development methodologies
+
+MUST HAVE:
+• Strong troubleshooting and problem-solving skills
+• Experience with high-availability and disaster recovery
+• Knowledge of networking concepts and protocols
+• Automation mindset and scripting abilities
+
+NICE TO HAVE:
+• Certified Kubernetes Administrator (CKA) certification
+• AWS/Azure/GCP professional certifications
+• Experience with GitOps workflows (ArgoCD, Flux)
+• Performance tuning and optimization experience
+• Open source contributions
+
+RESPONSIBILITIES:
+• Design and implement scalable cloud infrastructure
+• Build and maintain CI/CD pipelines for multiple applications
+• Automate deployment, scaling, and management of containerized applications
+• Monitor system performance and implement alerting solutions
+• Collaborate with development teams on application architecture
+• Ensure security compliance and implement best practices
+• Participate in on-call rotation for production support
+
+INFRASTRUCTURE & TOOLS:
+• Cloud Providers: Multi-cloud environment (AWS primary, Azure secondary)
+• Container Platform: Kubernetes clusters with 100+ nodes
+• Monitoring Stack: Prometheus, Grafana, AlertManager, ELK
+• CI/CD: Jenkins pipelines with automated testing and deployment
+• Infrastructure: Terraform for provisioning, Ansible for configuration
+• Security: Vault for secrets management, Falco for runtime security
+
+WHAT YOU'LL BUILD:
+• Auto-scaling microservices infrastructure
+• Multi-region disaster recovery systems
+• Automated testing and deployment pipelines
+• Monitoring and alerting for 99.99% uptime
+• Security-first cloud architecture

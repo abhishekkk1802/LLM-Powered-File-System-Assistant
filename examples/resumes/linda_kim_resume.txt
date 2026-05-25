@@ -1,0 +1,47 @@
+LINDA KIM
+QA Engineer
+
+Contact Information:
+Email: linda.kim@email.com
+Phone: (555) 276-7061
+LinkedIn: linkedin.com/in/lindakim
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+qa engineer with 4+ years of experience in software development
+and technology solutions. Expert in Python, Pytest, Allure, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Pytest
+Technologies: Allure, Docker
+Tools: AWS, Eclipse
+
+PROFESSIONAL EXPERIENCE
+
+Senior QA Engineer | Validation Systems | 2020 - Present
+• Developed and maintained applications using Python and Pytest
+• Built scalable solutions handling 100K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 56% through optimization
+
+QA Engineer | QualityGate | 2018 - 2020
+• Implemented features using Pytest and Allure
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+
+PROJECTS
+• API Service - Python project with modern architecture
+• System - Full-stack application using Pytest
+• Open Source Contribution - Active contributor to Python community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Python Professional Certification

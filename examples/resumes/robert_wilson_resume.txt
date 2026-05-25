@@ -1,0 +1,47 @@
+ROBERT WILSON
+Backend Developer
+
+Contact Information:
+Email: robert.wilson@email.com
+Phone: (555) 150-9046
+LinkedIn: linkedin.com/in/robertwilson
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+backend developer with 5+ years of experience in software development
+and technology solutions. Expert in Node.js, Express, MySQL, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Node.js, Express
+Technologies: MySQL, RabbitMQ
+Tools: AWS, VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Developer | MicroServices Inc | 2019 - Present
+• Developed and maintained applications using Node.js and Express
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 45% through optimization
+
+Backend Developer | APIFirst | 2017 - 2019
+• Implemented features using Express and MySQL
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+Tech Institute | 2013 - 2017
+
+PROJECTS
+• API Service - Node.js project with modern architecture
+• Dashboard - Full-stack application using Express
+• Open Source Contribution - Active contributor to Node.js community projects
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Node.js Professional Certification

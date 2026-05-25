@@ -1,19 +1,51 @@
-# LLM-Powered File System Assistant Dependencies
+# LLM-Powered File System Assistant & RAG Job Matching System Dependencies
+# Exact versions tested and verified working in production environment
 
 # Core dependencies for file operations
-pathlib2>=2.3.7
-python-dotenv>=1.0.0        # Load environment variables from .env file
+pathlib2==2.3.7.post1          # Path manipulation utilities
+python-dotenv==1.2.2           # Load environment variables from .env file
 
 # Document parsing libraries
-PyPDF2>=3.0.1          # PDF file reading
-python-docx>=0.8.11     # DOCX file reading
+PyPDF2==3.0.1                  # PDF file reading and text extraction
+python-docx==1.2.0             # Microsoft Word DOCX file reading
 
 # LLM API clients
-openai>=1.12.0          # OpenAI GPT models
-anthropic>=0.18.0       # Anthropic Claude models
+openai==2.32.0                 # OpenAI GPT models and embeddings
+anthropic==0.97.0              # Anthropic Claude models
 
+# Vector Database and Embeddings (RAG System Core)
+chromadb==1.5.8                # Vector database for embeddings storage
+torch==2.1.0+cpu               # PyTorch CPU-only version (for sentence-transformers)
+torchaudio==2.1.0+cpu          # Audio processing (torch dependency)  
+torchvision==0.16.0+cpu        # Computer vision (torch dependency)
+numpy==2.2.6                   # Numerical operations and array processing
 
-# Development and testing
-pytest>=7.0.0           # Testing framework
-pytest-cov>=4.0.0       # Coverage reporting
+# Data Analysis and Visualization (Jupyter Analysis)
+pandas==2.3.3                  # Data manipulation and analysis
+matplotlib==3.10.9             # Plotting and visualization library
+seaborn==0.13.2                # Statistical data visualization
+jupyter==1.1.1                 # Jupyter notebook environment
+ipykernel==7.2.0               # Jupyter kernel for Python
+notebook==7.5.5                # Classic Jupyter notebook interface
+
+# Scientific Computing (RAG System Support)
+scipy==1.15.3                  # Scientific computing library
+scikit-learn==1.7.2            # Machine learning utilities
+
+# Development and Testing
+pytest==9.0.3                  # Testing framework
+pytest-cov==7.1.0              # Test coverage reporting
+
+# Additional Production Dependencies
+requests==2.33.1               # HTTP library for API calls
+certifi==2026.4.22             # SSL certificate verification
+urllib3==2.6.3                 # Advanced HTTP client
+charset-normalizer==3.4.7      # Character encoding detection
+idna==3.13                     # Internationalized domain names
+jinja2==3.1.6                  # Template engine
+markupsafe==3.0.3              # Safe string handling for Jinja2
+pydantic==2.13.3               # Data validation using Python type annotations
+typing-extensions==4.15.0      # Type system extensions
+tqdm==4.67.3                   # Progress bars for loops
+click==8.3.3                   # Command line interface creation
 

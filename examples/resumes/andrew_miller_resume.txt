@@ -1,0 +1,47 @@
+ANDREW MILLER
+Backend Developer
+
+Contact Information:
+Email: andrew.miller@email.com
+Phone: (555) 119-8474
+LinkedIn: linkedin.com/in/andrewmiller
+Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+backend developer with 3+ years of experience in software development
+and technology solutions. Expert in Java, Spring, PostgreSQL, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Spring
+Technologies: PostgreSQL, Redis
+Tools: Docker, VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Developer | BackendSystems | 2021 - Present
+• Developed and maintained applications using Java and Spring
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 45% through optimization
+
+Backend Developer | ServerTech | 2019 - 2021
+• Implemented features using Spring and PostgreSQL
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+University College | 2015 - 2019
+
+PROJECTS
+• Mobile App - Java project with modern architecture
+• System - Full-stack application using Spring
+• Open Source Contribution - Active contributor to Java community projects
+
+CERTIFICATIONS
+• Microsoft Azure Developer
+• Java Professional Certification

@@ -1,0 +1,53 @@
+Senior Python Developer - TechCorp Inc.
+
+We are seeking a Senior Python Developer to join our dynamic engineering team building scalable web applications and machine learning solutions.
+
+REQUIRED QUALIFICATIONS:
+• 5+ years of professional Python development experience
+• Strong expertise in web frameworks (Django, Flask, or FastAPI)
+• Experience with relational databases (PostgreSQL, MySQL)
+• Proficiency with Git version control
+• Knowledge of RESTful API design and development
+• Bachelor's degree in Computer Science or related field
+
+REQUIRED TECHNICAL SKILLS:
+• Python programming (advanced level)
+• SQL and database optimization
+• Linux/Unix command line
+• Testing frameworks (pytest, unittest)
+• Containerization with Docker
+
+PREFERRED QUALIFICATIONS:
+• Machine Learning frameworks (TensorFlow, PyTorch, scikit-learn)
+• Cloud platforms (AWS, Azure, or GCP)
+• Frontend technologies (React, JavaScript, HTML/CSS)
+• Message queues (RabbitMQ, Celery)
+• Kubernetes container orchestration
+• CI/CD pipeline experience
+
+MUST HAVE:
+• Strong problem-solving and analytical skills
+• Excellent communication and teamwork abilities
+• Experience in agile development methodologies
+• Code review and mentoring experience
+
+NICE TO HAVE:
+• Open source contributions
+• Technical blog writing or speaking experience
+• DevOps and infrastructure knowledge
+• Microservices architecture experience
+
+RESPONSIBILITIES:
+• Design and develop high-quality Python applications
+• Collaborate with cross-functional teams on feature development
+• Write clean, maintainable, and well-tested code
+• Participate in code reviews and architectural decisions
+• Mentor junior developers and contribute to team growth
+• Optimize application performance and scalability
+
+COMPANY BENEFITS:
+• Competitive salary and equity package
+• Health, dental, and vision insurance
+• Flexible work arrangements
+• Professional development budget
+• Modern tech stack and tools

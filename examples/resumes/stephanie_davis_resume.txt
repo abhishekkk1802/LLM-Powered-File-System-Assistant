@@ -1,0 +1,47 @@
+STEPHANIE DAVIS
+Backend Developer
+
+Contact Information:
+Email: stephanie.davis@email.com
+Phone: (555) 439-9554
+LinkedIn: linkedin.com/in/stephaniedavis
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+backend developer with 4+ years of experience in software development
+and technology solutions. Expert in Python, Django, MongoDB, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Python, Django
+Technologies: MongoDB, Celery
+Tools: Kubernetes, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Developer | DatabaseExperts | 2020 - Present
+• Developed and maintained applications using Python and Django
+• Built scalable solutions handling 50K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 27% through optimization
+
+Backend Developer | CloudBackend | 2018 - 2020
+• Implemented features using Django and MongoDB
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+
+PROJECTS
+• Web Application - Python project with modern architecture
+• System - Full-stack application using Django
+• Open Source Contribution - Active contributor to Python community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Python Professional Certification

@@ -1,0 +1,47 @@
+RACHEL DAVIS
+Software Engineer
+
+Contact Information:
+Email: rachel.davis@email.com
+Phone: (555) 172-8027
+LinkedIn: linkedin.com/in/racheldavis
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+software engineer with 4+ years of experience in software development
+and technology solutions. Expert in C#, .NET, SQL Server, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: C#, .NET
+Technologies: SQL Server, Azure
+Tools: Git, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | SoftwareHub | 2020 - Present
+• Developed and maintained applications using C# and .NET
+• Built scalable solutions handling 100K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 26% through optimization
+
+Software Engineer | InnovateTech | 2018 - 2020
+• Implemented features using .NET and SQL Server
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+
+PROJECTS
+• Mobile App - C# project with modern architecture
+• Dashboard - Full-stack application using .NET
+• Open Source Contribution - Active contributor to C# community projects
+
+CERTIFICATIONS
+• Microsoft Azure Developer
+• C# Professional Certification

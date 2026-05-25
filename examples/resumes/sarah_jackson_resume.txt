@@ -1,0 +1,47 @@
+SARAH JACKSON
+Frontend Developer
+
+Contact Information:
+Email: sarah.jackson@email.com
+Phone: (555) 182-2118
+LinkedIn: linkedin.com/in/sarahjackson
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+frontend developer with 4+ years of experience in software development
+and technology solutions. Expert in Angular, TypeScript, RxJS, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Angular, TypeScript
+Technologies: RxJS, Karma
+Tools: Protractor, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Developer | ModernWeb | 2020 - Present
+• Developed and maintained applications using Angular and TypeScript
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 32% through optimization
+
+Frontend Developer | ComponentLibrary | 2018 - 2020
+• Implemented features using TypeScript and RxJS
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014 - 2018
+
+PROJECTS
+• API Service - Angular project with modern architecture
+• Dashboard - Full-stack application using TypeScript
+• Open Source Contribution - Active contributor to Angular community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Angular Professional Certification

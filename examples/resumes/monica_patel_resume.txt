@@ -1,0 +1,47 @@
+MONICA PATEL
+QA Engineer
+
+Contact Information:
+Email: monica.patel@email.com
+Phone: (555) 499-2919
+LinkedIn: linkedin.com/in/monicapatel
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+qa engineer with 2+ years of experience in software development
+and technology solutions. Expert in Selenium, Java, TestNG, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Selenium, Java
+Technologies: TestNG, Jenkins
+Tools: JIRA, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior QA Engineer | QualityFirst Labs | 2022 - Present
+• Developed and maintained applications using Selenium and Java
+• Built scalable solutions handling 50K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 20% through optimization
+
+QA Engineer | TestPro Solutions | 2020 - 2022
+• Implemented features using Java and TestNG
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+University College | 2016 - 2020
+
+PROJECTS
+• API Service - Selenium project with modern architecture
+• Dashboard - Full-stack application using Java
+• Open Source Contribution - Active contributor to Selenium community projects
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Selenium Professional Certification

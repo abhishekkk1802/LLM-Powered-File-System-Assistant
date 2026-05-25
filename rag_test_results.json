@@ -1,0 +1,81 @@
+{
+  "test_metadata": {
+    "test_date": "2026-05-26T00:55:01.842945",
+    "system_config": {
+      "vector_db": "chromadb",
+      "embedding_model": "openai",
+      "collection_name": "test_resume_collection"
+    }
+  },
+  "performance_metrics": {
+    "processing_metrics": {
+      "resumes_processed": 30,
+      "total_processing_time": 43.74883675575256,
+      "avg_processing_time_per_resume": 1.4582945585250855
+    },
+    "search_metrics": {
+      "total_search_queries": 5,
+      "avg_search_time": 0.5165785312652588,
+      "total_search_results": 25
+    },
+    "matching_metrics": {
+      "jobs_tested": 5,
+      "successful_matches": 5,
+      "success_rate": 1.0,
+      "total_candidates_found": 20,
+      "avg_matching_time": 0.5845270156860352
+    },
+    "quality_metrics": {
+      "avg_match_score": 100.0,
+      "max_match_score": 100,
+      "min_match_score": 100,
+      "score_std": 0.0
+    }
+  },
+  "detailed_results": {
+    "search_results": {
+      "Python machine learning experience": {
+        "matches": 5,
+        "time": 0.6067349910736084
+      },
+      "DevOps cloud infrastructure": {
+        "matches": 5,
+        "time": 0.5121619701385498
+      },
+      "Product management UX design": {
+        "matches": 5,
+        "time": 0.4744222164154053
+      },
+      "Cybersecurity network security": {
+        "matches": 5,
+        "time": 0.4974987506866455
+      },
+      "Financial analysis data science": {
+        "matches": 5,
+        "time": 0.49207472801208496
+      }
+    },
+    "matching_results": {
+      "Cybersecurity Analyst": {
+        "candidates_found": 2,
+        "time": 0.7471561431884766
+      },
+      "Data Scientist Ml": {
+        "candidates_found": 3,
+        "time": 0.5530281066894531
+      },
+      "Devops Engineer": {
+        "candidates_found": 5,
+        "time": 0.5579488277435303
+      },
+      "Product Manager": {
+        "candidates_found": 5,
+        "time": 0.527069091796875
+      },
+      "Senior Python Developer": {
+        "candidates_found": 5,
+        "time": 0.5374329090118408
+      }
+    }
+  }
+}

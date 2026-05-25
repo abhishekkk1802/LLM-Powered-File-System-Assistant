@@ -1,0 +1,47 @@
+ELIZABETH HALL
+Business Analyst
+
+Contact Information:
+Email: elizabeth.hall@email.com
+Phone: (555) 419-2406
+LinkedIn: linkedin.com/in/elizabethhall
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+business analyst with 5+ years of experience in software development
+and technology solutions. Expert in Google Analytics, Mixpanel, Hotjar, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Google Analytics, Mixpanel
+Technologies: Hotjar, Figma
+Tools: Sketch, Eclipse
+
+PROFESSIONAL EXPERIENCE
+
+Senior Business Analyst | BusinessIntel | 2019 - Present
+• Developed and maintained applications using Google Analytics and Mixpanel
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 44% through optimization
+
+Business Analyst | OptimizeNow | 2017 - 2019
+• Implemented features using Mixpanel and Hotjar
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2013 - 2017
+
+PROJECTS
+• Web Application - Google Analytics project with modern architecture
+• Dashboard - Full-stack application using Mixpanel
+• Open Source Contribution - Active contributor to Google Analytics community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Google Analytics Professional Certification

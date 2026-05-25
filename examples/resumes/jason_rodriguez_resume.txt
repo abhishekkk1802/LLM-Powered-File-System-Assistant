@@ -1,0 +1,47 @@
+JASON RODRIGUEZ
+Frontend Developer
+
+Contact Information:
+Email: jason.rodriguez@email.com
+Phone: (555) 693-1224
+LinkedIn: linkedin.com/in/jasonrodriguez
+Location: Boston, MA
+
+PROFESSIONAL SUMMARY
+frontend developer with 3+ years of experience in software development
+and technology solutions. Expert in Vue.js, JavaScript, CSS3, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Vue.js, JavaScript
+Technologies: CSS3, Vite
+Tools: Cypress, VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Senior Frontend Developer | WebDesignPro | 2021 - Present
+• Developed and maintained applications using Vue.js and JavaScript
+• Built scalable solutions handling 100K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 49% through optimization
+
+Frontend Developer | InteractiveTech | 2019 - 2021
+• Implemented features using JavaScript and CSS3
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2015 - 2019
+
+PROJECTS
+• Web Application - Vue.js project with modern architecture
+• System - Full-stack application using JavaScript
+• Open Source Contribution - Active contributor to Vue.js community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Vue.js Professional Certification
