@@ -1,0 +1,47 @@
+STEVEN HARRIS
+Business Analyst
+
+Contact Information:
+Email: steven.harris@email.com
+Phone: (555) 680-2729
+LinkedIn: linkedin.com/in/stevenharris
+Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+business analyst with 2+ years of experience in software development
+and technology solutions. Expert in SQL, Excel, Tableau, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: SQL, Excel
+Technologies: Tableau, Jira
+Tools: Confluence, Eclipse
+
+PROFESSIONAL EXPERIENCE
+
+Senior Business Analyst | BusinessFlow Corp | 2022 - Present
+• Developed and maintained applications using SQL and Excel
+• Built scalable solutions handling 50K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 24% through optimization
+
+Business Analyst | Analytics Pro | 2020 - 2022
+• Implemented features using Excel and Tableau
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+Tech Institute | 2016 - 2020
+
+PROJECTS
+• API Service - SQL project with modern architecture
+• Platform - Full-stack application using Excel
+• Open Source Contribution - Active contributor to SQL community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• SQL Professional Certification

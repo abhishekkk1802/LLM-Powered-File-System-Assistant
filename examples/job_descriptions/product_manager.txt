@@ -1,0 +1,66 @@
+Senior Product Manager - InnovateNow Corp
+
+We're seeking a Senior Product Manager to drive product strategy and execution for our suite of customer-facing applications and internal tools.
+
+REQUIRED QUALIFICATIONS:
+• 5+ years of product management experience in technology companies
+• Proven track record of launching successful digital products
+• Experience with agile development methodologies (Scrum, Kanban)
+• Strong analytical skills with data-driven decision making
+• Bachelor's degree in Business, Engineering, or related field
+
+REQUIRED SKILLS:
+• Product strategy and roadmap development
+• User research and customer feedback analysis
+• A/B testing and experimentation frameworks
+• Cross-functional team leadership
+• Stakeholder management and communication
+
+PREFERRED QUALIFICATIONS:
+• MBA or advanced degree in relevant field
+• Experience in B2B SaaS or enterprise software
+• Technical background or CS degree
+• Experience with design thinking methodologies
+• Knowledge of SQL and data analysis tools
+
+MUST HAVE:
+• Excellent communication and presentation skills
+• Strong project management capabilities
+• User-centric mindset with empathy for customer needs
+• Ability to work in fast-paced, ambiguous environments
+
+NICE TO HAVE:
+• Experience with machine learning or AI products
+• Mobile app product management experience
+• International or multi-market product experience
+• UX/UI design background or collaboration experience
+
+RESPONSIBILITIES:
+• Define and execute product strategy aligned with business goals
+• Conduct user research and gather customer feedback
+• Collaborate with engineering teams on technical requirements
+• Work with design teams to create intuitive user experiences
+• Analyze product metrics and make data-driven decisions
+• Manage product roadmap and communicate priorities
+• Lead cross-functional teams through product development cycle
+
+TOOLS & METHODOLOGIES:
+• Product Management: Jira, Asana, ProductBoard, Roadmunk
+• Analytics: Google Analytics, Mixpanel, Tableau, SQL
+• Design Collaboration: Figma, Miro, InVision
+• User Research: UserVoice, Hotjar, usertesting.com
+• Communication: Slack, Notion, Confluence
+
+KEY METRICS YOU'LL OWN:
+• User acquisition, activation, and retention rates
+• Feature adoption and engagement metrics
+• Customer satisfaction (NPS, CSAT) scores
+• Product-led growth indicators
+• Time-to-market for new features
+
+WHAT SUCCESS LOOKS LIKE:
+• Increased user engagement and product adoption
+• Successful feature launches that meet business objectives
+• Improved customer satisfaction and reduced churn
+• Clear product vision that aligns teams and stakeholders
+• Data-driven product decisions that drive growth

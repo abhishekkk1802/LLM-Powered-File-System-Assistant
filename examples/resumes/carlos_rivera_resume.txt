@@ -1,0 +1,47 @@
+CARLOS RIVERA
+QA Engineer
+
+Contact Information:
+Email: carlos.rivera@email.com
+Phone: (555) 847-7860
+LinkedIn: linkedin.com/in/carlosrivera
+Location: New York, NY
+
+PROFESSIONAL SUMMARY
+qa engineer with 5+ years of experience in software development
+and technology solutions. Expert in C#, NUnit, SpecFlow, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: C#, NUnit
+Technologies: SpecFlow, Azure DevOps
+Tools: SQL, Eclipse
+
+PROFESSIONAL EXPERIENCE
+
+Senior QA Engineer | AssuranceOps | 2019 - Present
+• Developed and maintained applications using C# and NUnit
+• Built scalable solutions handling 100K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 43% through optimization
+
+QA Engineer | TestFlow | 2017 - 2019
+• Implemented features using NUnit and SpecFlow
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+University College | 2013 - 2017
+
+PROJECTS
+• Mobile App - C# project with modern architecture
+• System - Full-stack application using NUnit
+• Open Source Contribution - Active contributor to C# community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• C# Professional Certification

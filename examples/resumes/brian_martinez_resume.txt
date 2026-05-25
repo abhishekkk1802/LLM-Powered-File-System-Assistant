@@ -1,0 +1,47 @@
+BRIAN MARTINEZ
+QA Engineer
+
+Contact Information:
+Email: brian.martinez@email.com
+Phone: (555) 994-9477
+LinkedIn: linkedin.com/in/brianmartinez
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+qa engineer with 3+ years of experience in software development
+and technology solutions. Expert in Cypress, JavaScript, Mocha, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Cypress, JavaScript
+Technologies: Mocha, GitHub Actions
+Tools: Postman, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior QA Engineer | AutoTest Corp | 2021 - Present
+• Developed and maintained applications using Cypress and JavaScript
+• Built scalable solutions handling 50K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 24% through optimization
+
+QA Engineer | QA Dynamics | 2019 - 2021
+• Implemented features using JavaScript and Mocha
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2015 - 2019
+
+PROJECTS
+• Mobile App - Cypress project with modern architecture
+• Platform - Full-stack application using JavaScript
+• Open Source Contribution - Active contributor to Cypress community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Cypress Professional Certification

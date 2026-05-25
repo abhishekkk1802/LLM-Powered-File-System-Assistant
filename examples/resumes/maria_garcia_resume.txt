@@ -1,0 +1,60 @@
+MARIA GARCIA
+UX/UI Designer
+
+Contact Information:
+Email: maria.garcia@email.com
+Phone: (555) 234-5678
+Portfolio: mariagdesign.com
+Location: Barcelona, Spain
+
+PROFESSIONAL SUMMARY
+Creative UX/UI designer with 6+ years of experience crafting intuitive digital
+experiences for web and mobile applications. Expert in user research, prototyping,
+and design systems with a focus on accessibility and user-centered design.
+
+TECHNICAL SKILLS
+Design Tools: Figma, Sketch, Adobe Creative Suite, InVision, Principle
+Prototyping: Framer, Marvel, Axure, Zeplin
+User Research: Usability Testing, A/B Testing, User Interviews, Surveys
+Development: HTML, CSS, JavaScript (basic), React (basic)
+Collaboration: Slack, Notion, Jira, Confluence
+
+PROFESSIONAL EXPERIENCE
+
+Senior UX/UI Designer | DesignForward Agency | 2020 - Present
+• Led design for 15+ client projects including SaaS platforms and mobile apps
+• Conducted user research and usability testing for Fortune 500 companies
+• Created comprehensive design systems increasing team efficiency by 40%
+• Mentored junior designers and established design processes
+• Collaborated with development teams using agile methodologies
+
+UX Designer | Digital Innovations Corp | 2018 - 2020
+• Designed user interfaces for B2B software applications
+• Performed competitive analysis and user journey mapping
+• Created wireframes, prototypes, and high-fidelity mockups
+• Improved conversion rates by 25% through UX optimization
+• Worked closely with product managers on feature prioritization
+
+Junior Designer | Creative Studio Plus | 2017 - 2018
+• Assisted in creating marketing materials and web designs
+• Participated in brainstorming sessions and design critiques
+• Learned industry-standard design tools and methodologies
+• Supported senior designers on client projects
+• Developed skills in user-centered design principles
+
+EDUCATION
+Master of Fine Arts in Digital Design
+Barcelona Design Institute | 2015 - 2017
+
+Bachelor of Arts in Graphic Design
+University of Barcelona | 2011 - 2015
+
+PROJECTS
+• Healthcare Mobile App - Complete UX/UI design for patient management
+• E-learning Platform - Responsive design for online education portal
+• Financial Dashboard - Data visualization and analytics interface
+
+CERTIFICATIONS
+• Google UX Design Professional Certificate
+• Certified Usability Analyst (CUA)
+• Adobe Certified Expert (ACE) in Photoshop

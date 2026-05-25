@@ -1,0 +1,67 @@
+Cybersecurity Analyst - SecureNet Technologies
+
+Join our cybersecurity team to protect critical infrastructure and help organizations defend against evolving cyber threats.
+
+REQUIRED QUALIFICATIONS:
+• 3+ years of cybersecurity or information security experience
+• Experience with security incident response and investigation
+• Knowledge of security frameworks (NIST, ISO 27001, CIS Controls)
+• Proficiency with security tools and technologies
+• Bachelor's degree in Cybersecurity, IT, or related field
+
+REQUIRED TECHNICAL SKILLS:
+• SIEM platforms (Splunk, QRadar, or ArcSight)
+• Network security monitoring and analysis
+• Vulnerability assessment and penetration testing tools
+• Incident response and forensics procedures
+• Security awareness and compliance programs
+
+PREFERRED QUALIFICATIONS:
+• Relevant security certifications (CISSP, CISA, CEH, Security+)
+• Experience with cloud security (AWS, Azure, GCP)
+• Threat hunting and malware analysis experience
+• Scripting skills (Python, PowerShell, Bash)
+• Knowledge of regulatory compliance (SOX, GDPR, HIPAA)
+
+MUST HAVE:
+• Strong analytical and problem-solving abilities
+• Excellent written and verbal communication skills
+• Attention to detail and ability to work under pressure
+• Understanding of current threat landscape and attack vectors
+
+NICE TO HAVE:
+• Advanced security certifications (CISSP, CISM, GCIH)
+• Experience with threat intelligence platforms
+• Red team or ethical hacking experience
+• Security architecture and risk assessment background
+• Industry conference speaking or security research publications
+
+RESPONSIBILITIES:
+• Monitor security events and investigate potential incidents
+• Conduct vulnerability assessments and penetration testing
+• Develop and maintain security policies and procedures
+• Perform threat hunting and behavioral analysis
+• Coordinate incident response activities and forensic investigations
+• Provide security training and awareness programs
+• Stay current with emerging threats and security technologies
+
+SECURITY TOOLS & TECHNOLOGIES:
+• SIEM: Splunk Enterprise, IBM QRadar, LogRhythm
+• Vulnerability Management: Nessus, OpenVAS, Rapid7
+• Network Security: Wireshark, Nmap, Burp Suite, Metasploit
+• Endpoint Security: CrowdStrike, Carbon Black, Microsoft Defender
+• Cloud Security: AWS GuardDuty, Azure Sentinel, Google Cloud Security
+• Forensics: EnCase, FTK, Volatility, Autopsy
+
+COMPLIANCE & FRAMEWORKS:
+• Security frameworks: NIST Cybersecurity Framework, ISO 27001
+• Compliance standards: SOC 2, PCI DSS, HIPAA, GDPR
+• Risk management methodologies and assessment procedures
+• Business continuity and disaster recovery planning
+
+CAREER DEVELOPMENT:
+• Support for industry certifications and continuous learning
+• Opportunities to attend security conferences and training
+• Mentorship from senior security professionals
+• Cross-training in different security domains
+• Path to senior analyst, architect, or management roles

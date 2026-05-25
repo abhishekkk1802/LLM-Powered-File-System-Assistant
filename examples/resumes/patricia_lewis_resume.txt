@@ -1,0 +1,47 @@
+PATRICIA LEWIS
+Business Analyst
+
+Contact Information:
+Email: patricia.lewis@email.com
+Phone: (555) 122-2078
+LinkedIn: linkedin.com/in/patricialewis
+Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+business analyst with 3+ years of experience in software development
+and technology solutions. Expert in Power BI, Python, R, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Power BI, Python
+Technologies: R, Salesforce
+Tools: SharePoint, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior Business Analyst | ProcessOpt Inc | 2021 - Present
+• Developed and maintained applications using Power BI and Python
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 30% through optimization
+
+Business Analyst | BizAnalytics | 2019 - 2021
+• Implemented features using Python and R
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2015 - 2019
+
+PROJECTS
+• API Service - Power BI project with modern architecture
+• System - Full-stack application using Python
+• Open Source Contribution - Active contributor to Power BI community projects
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Power BI Professional Certification

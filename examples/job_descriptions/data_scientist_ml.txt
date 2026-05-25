@@ -1,0 +1,61 @@
+Data Scientist - Machine Learning Engineer - DataTech Solutions
+
+Join our AI/ML team to build next-generation machine learning models and data-driven solutions that impact millions of users.
+
+REQUIRED QUALIFICATIONS:
+• 3+ years of experience in data science or machine learning
+• Master's degree in Data Science, Statistics, Computer Science, or related field
+• Strong programming skills in Python and R
+• Experience with machine learning algorithms and statistical modeling
+• Proficiency with data manipulation and analysis tools
+
+REQUIRED TECHNICAL SKILLS:
+• Python programming with ML libraries (TensorFlow, PyTorch, scikit-learn)
+• Statistical analysis and hypothesis testing
+• SQL for data extraction and manipulation
+• Data visualization (matplotlib, seaborn, plotly)
+• Jupyter notebooks and Python data stack (pandas, numpy)
+
+PREFERRED QUALIFICATIONS:
+• PhD in quantitative field (Statistics, Mathematics, Physics, etc.)
+• Experience with big data technologies (Spark, Hadoop)
+• Cloud ML platforms (AWS SageMaker, Azure ML, Google AI Platform)
+• Deep learning and neural network architectures
+• MLOps and model deployment experience
+• A/B testing and experimental design
+
+MUST HAVE:
+• Strong analytical and problem-solving skills
+• Experience with end-to-end ML model development
+• Data preprocessing and feature engineering expertise
+• Model evaluation and validation techniques
+
+NICE TO HAVE:
+• Natural Language Processing (NLP) experience
+• Computer Vision and image processing
+• Time series forecasting and analysis
+• Reinforcement learning algorithms
+• Research publications or patents
+
+RESPONSIBILITIES:
+• Develop and deploy machine learning models for business applications
+• Analyze large datasets to extract meaningful insights
+• Collaborate with engineering teams on model integration
+• Design and execute A/B tests and experiments
+• Create data pipelines and automated ML workflows
+• Present findings and recommendations to stakeholders
+• Stay current with latest ML research and techniques
+
+KEY PROJECTS:
+• Recommendation systems for personalized user experiences
+• Fraud detection and risk assessment models
+• Predictive analytics for business forecasting
+• Natural language processing for customer insights
+
+TOOLS & TECHNOLOGIES:
+• Programming: Python, R, SQL, Scala (nice to have)
+• ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost
+• Data Tools: Pandas, NumPy, Spark, Kafka
+• Visualization: Tableau, Power BI, matplotlib, seaborn
+• Cloud: AWS, Azure, or Google Cloud Platform
+• Version Control: Git, DVC (Data Version Control)

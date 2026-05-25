@@ -1,0 +1,48 @@
+JENNIFER BROWN
+Data Engineer
+
+Contact Information:
+Email: jennifer.brown@email.com
+Phone: (555) 456-7890
+GitHub: github.com/jbrown-data
+Location: Chicago, IL
+
+PROFESSIONAL SUMMARY
+Data engineer with 5+ years of experience building scalable data pipelines
+and analytics infrastructure. Expert in big data technologies, cloud platforms,
+and ETL processes with focus on data quality and performance optimization.
+
+TECHNICAL SKILLS
+Programming: Python, Scala, Java, SQL, R
+Big Data: Apache Spark, Hadoop, Kafka, Airflow
+Cloud Platforms: AWS (Redshift, EMR, Glue), Google Cloud (BigQuery, Dataflow)
+Databases: PostgreSQL, MongoDB, Cassandra, Snowflake
+Data Tools: DBT, Tableau, Looker, Apache Superset
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Engineer | DataFlow Technologies | 2020 - Present
+• Built real-time data pipelines processing 10TB+ daily using Apache Kafka
+• Designed ETL workflows with Apache Airflow reducing processing time by 70%
+• Migrated legacy data warehouse to cloud-native Snowflake architecture
+• Implemented data quality monitoring and alerting systems
+• Collaborated with data scientists on ML feature engineering
+
+Data Engineer | Analytics Corp | 2018 - 2020
+• Developed batch processing jobs using Apache Spark and Python
+• Created data models and dimensional schemas for analytics
+• Optimized SQL queries improving dashboard performance by 60%
+• Maintained data warehouse and ensured data integrity
+• Built automated data validation and testing frameworks
+
+EDUCATION
+Master of Science in Data Science
+University of Illinois Chicago | 2016 - 2018
+
+Bachelor of Science in Statistics
+Northwestern University | 2012 - 2016
+
+PROJECTS
+• Real-time Analytics Platform - Kafka/Spark streaming architecture
+• Customer Data Platform - Unified data lake with multiple source integration
+• ML Feature Store - Scalable feature engineering pipeline

@@ -1,0 +1,47 @@
+JESSICA WANG
+Software Engineer
+
+Contact Information:
+Email: jessica.wang@email.com
+Phone: (555) 165-6405
+LinkedIn: linkedin.com/in/jessicawang
+Location: Boston, MA
+
+PROFESSIONAL SUMMARY
+software engineer with 6+ years of experience in software development
+and technology solutions. Expert in Ruby, Rails, MongoDB, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Ruby, Rails
+Technologies: MongoDB, AWS
+Tools: CircleCI, VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | WebCraft | 2018 - Present
+• Developed and maintained applications using Ruby and Rails
+• Built scalable solutions handling 100K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 37% through optimization
+
+Software Engineer | DigitalForge | 2016 - 2018
+• Implemented features using Rails and MongoDB
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+University College | 2012 - 2016
+
+PROJECTS
+• API Service - Ruby project with modern architecture
+• Platform - Full-stack application using Rails
+• Open Source Contribution - Active contributor to Ruby community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Ruby Professional Certification

@@ -1,0 +1,47 @@
+MICHAEL YOUNG
+Business Analyst
+
+Contact Information:
+Email: michael.young@email.com
+Phone: (555) 640-3041
+LinkedIn: linkedin.com/in/michaelyoung
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+business analyst with 4+ years of experience in software development
+and technology solutions. Expert in Visio, Lucidchart, Miro, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Visio, Lucidchart
+Technologies: Miro, Asana
+Tools: Monday.com, IntelliJ
+
+PROFESSIONAL EXPERIENCE
+
+Senior Business Analyst | StrategicSolutions | 2020 - Present
+• Developed and maintained applications using Visio and Lucidchart
+• Built scalable solutions handling 50K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 38% through optimization
+
+Business Analyst | BizTech | 2018 - 2020
+• Implemented features using Lucidchart and Miro
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+Tech Institute | 2014 - 2018
+
+PROJECTS
+• Web Application - Visio project with modern architecture
+• Dashboard - Full-stack application using Lucidchart
+• Open Source Contribution - Active contributor to Visio community projects
+
+CERTIFICATIONS
+• AWS Certified Developer
+• Visio Professional Certification

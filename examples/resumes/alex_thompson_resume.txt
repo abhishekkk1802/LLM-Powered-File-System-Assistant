@@ -1,0 +1,47 @@
+ALEX THOMPSON
+Software Engineer
+
+Contact Information:
+Email: alex.thompson@email.com
+Phone: (555) 719-9150
+LinkedIn: linkedin.com/in/alexthompson
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+software engineer with 3+ years of experience in software development
+and technology solutions. Expert in Java, Spring Boot, MySQL, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Java, Spring Boot
+Technologies: MySQL, Docker
+Tools: Jenkins, VS Code
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechFlow Inc | 2021 - Present
+• Developed and maintained applications using Java and Spring Boot
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 59% through optimization
+
+Software Engineer | CodeBase Solutions | 2019 - 2021
+• Implemented features using Spring Boot and MySQL
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2015 - 2019
+
+PROJECTS
+• API Service - Java project with modern architecture
+• System - Full-stack application using Spring Boot
+• Open Source Contribution - Active contributor to Java community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Java Professional Certification

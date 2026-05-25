@@ -1,0 +1,47 @@
+MARK JONES
+Software Engineer
+
+Contact Information:
+Email: mark.jones@email.com
+Phone: (555) 609-6223
+LinkedIn: linkedin.com/in/markjones
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+software engineer with 5+ years of experience in software development
+and technology solutions. Expert in Go, PostgreSQL, Redis, with strong
+problem-solving skills and passion for clean, efficient code.
+
+TECHNICAL SKILLS
+Programming Languages: Go, PostgreSQL
+Technologies: Redis, Kubernetes
+Tools: Prometheus, Eclipse
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | CloudTech | 2019 - Present
+• Developed and maintained applications using Go and PostgreSQL
+• Built scalable solutions handling 10K+ users
+• Collaborated with cross-functional teams in agile environment
+• Mentored junior developers and conducted code reviews
+• Improved system performance by 49% through optimization
+
+Software Engineer | ScaleUp Solutions | 2017 - 2019
+• Implemented features using PostgreSQL and Redis
+• Participated in full software development lifecycle
+• Worked with databases and API integrations
+• Contributed to architecture decisions and technical documentation
+• Supported production systems and resolved critical issues
+
+EDUCATION
+Bachelor of Science in Computer Science
+University College | 2013 - 2017
+
+PROJECTS
+• API Service - Go project with modern architecture
+• Platform - Full-stack application using PostgreSQL
+• Open Source Contribution - Active contributor to Go community projects
+
+CERTIFICATIONS
+• Google Cloud Professional
+• Go Professional Certification
